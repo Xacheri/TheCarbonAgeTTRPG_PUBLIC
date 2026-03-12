@@ -5,7 +5,7 @@
 | Food                | 1 lb (1/2 a ration)                               |
 | Water               | 1 gallon (8 lbs)                                  |
 | Rest                | 6 hours (2 short rests, or 1 long rest satisfies) |
-> ![[Need By Creature Size.png](../_images/Need%20By%20Creature%20Size.png)
+> ![Need By Creature Size.png](../_images/Need%20By%20Creature%20Size.png)
 >*Different sizes of creatures have different requirements for food and water*
 ## Malnutrition
 
