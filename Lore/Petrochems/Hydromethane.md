@@ -1,4 +1,4 @@
-Hydromethane is a low-density, high-power high-temperature fuel developed by [China](China) during [[WWII]] to advance their Space ambitions.
+Hydromethane is a low-density, high-power high-temperature fuel developed by [China](China) during [WWII](../Historical%20Ledger/WWII.md) to advance their Space ambitions.
 
 This fuel is the most suitable for aviation and rocketry. It is a combustion fuel, with an energy density competing with nuclear, but at the cost of a low mass density requiring large jets and fuel tanks.
 

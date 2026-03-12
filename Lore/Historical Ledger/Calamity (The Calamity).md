@@ -1,4 +1,4 @@
-The Calamity describes the series of geological, magnetic, and meteorological events that occurred in [[1984.md]] that lead to the fall of modern civilization and the beginning of the Carbon Age. 
+The Calamity describes the series of geological, magnetic, and meteorological events that occurred in [1984](1984.md) that lead to the fall of modern civilization and the beginning of the Carbon Age. 
 
 While the conditions that could cause the Calamity were created by Man via climate change caused by rapid and ubiquitous adoption of Carbon Age petrochems, the event itself was triggered and accelerated by extradimensional intervention on behalf of [[The Others]].
 
