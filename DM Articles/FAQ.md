@@ -1,0 +1,7 @@
+﻿## How did the world end?
+- The world ended in 1984 as a result of [Calamity (The Calamity)](Historical%20Ledger/Calamity%20%28The%20Calamity%29.md), which was a chain of extreme natural disasters, and society's inability to react to these disasters, in this order:
+	- **July -** *Super-Typhoons Move Inland* Large storms that had dominated the ocean in recent years, cutting off Atlantic supply chains, began to move inland. In the US, cities in the East Coast and parts of the Midwest are blown away by the powerful storms.
+	- **July** *- Ronald Reagan Bombs China* Ronald Reagan during the disaster, absolutely coked out of his mind, launches [[Supermassive Yield Carbo-Diesel Bomb]]s at China in retaliation for, what he believed, was a massive weather machine attack on the East Coast. The U.S. begins dissolving due to lack of infrastructure and competent governance. Chinese population centers are submerged in [Carbodiesel](Petrochems/Carbodiesel.md) fire.
+	- **August** *- Supercharged Weather Disasters Sweep The Globe* Many smaller governments succumb to the intense stress and chaos of intense, out-of-season, repetitive weather disasters.
+	- **September** *- Earth's Magnetic Poles Flip* Electronics fry across the globe, requiring repair efforts beyond the general capabilities of the remaining supply chain. The first [Starfolk](Mutant%20Races/Starfolk.md) mutations appear in the Artic
+	- **September** *- Rapid Thawing of Permafrost* Sea levels rise, and ancient diseases like the [The Black Death](Diseases/The%20Black%20Death.md) are re
