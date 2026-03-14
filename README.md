@@ -17,19 +17,19 @@ Campaigns in this setting are meant to have a darker, survival element to them a
 ## Table of Contents
 - [FAQ](DM%20Articles/FAQ.md)
 ### The Game
-- [[_PUBLIC WIKI_/DM Articles/Westmarches Concepts|Westmarches Concepts]]
+- [Westmarches Concepts](DM%20Articles/Westmarches%20Concepts.md)
 ### 5E Rules and Mechanics
 - [Conditions Cheatsheet](DM%20Articles/Conditions%20Cheatsheet.md)
 - #### Survival and Travel
-	- [[_PUBLIC WIKI_/DM Articles/Hunger, Thirst, and Sleep Deprivation|Hunger, Thirst, and Sleep Deprivation]]
-	- [[_PUBLIC WIKI_/DM Articles/Encumbrance|Encumbrance]]
-	- [[_PUBLIC WIKI_/DM Articles/Environment|Environment]]
-	- [[_PUBLIC WIKI_/DM Articles/Equipment Condition|Equipment Condition]]
-	- [[_PUBLIC WIKI_/DM Articles/Foraging|Foraging]]
-	- [[_PUBLIC WIKI_/DM Articles/Travel Pace|Travel Pace]]
+	- [Hunger, Thirst, and Sleep Deprivation](DM%20Articles/Hunger%2C%20Thirst%2C%20and%20Sleep%20Deprivation.md)
+	- [Encumbrance](DM%20Articles/Encumbrance.md)
+	- [Environment](DM%20Articles/Environment.md)
+	- [Equipment Condition](DM%20Articles/Equipment%20Condition.md)
+	- [Foraging](DM%20Articles/Foraging.md)
+	- [Travel Pace](DM%20Articles/Travel%20Pace.md)
 - #### Setting-Specific Rules Adaptations
-	- [[_PUBLIC WIKI_/DM Articles/Playable Races List|Playable Races List]]
+	- [Playable Races List](DM%20Articles/Playable%20Races%20List.md)
 ### The Setting
-- [[_PUBLIC WIKI_/DM Articles/Magic System|Magic System]]
-- [[_PUBLIC WIKI_/DM Articles/Currency and Trade|Currency and Trade]]
+- [Magic System](DM%20Articles/Magic%20System.md)
+- [Currency and Trade](DM%20Articles/Currency%20and%20Trade.md)
 - 
