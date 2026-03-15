@@ -1,7 +1,7 @@
 ﻿# Carbon Age Player-Facing Wiki
 Hello traveler! 
 
-Welcome to the Carbon Age Wiki! This is a public repository of rules, lore, and wordbuilding for my Carbon Age TTRPG setting. If you cam here looking for examples of my code, I am sorry to disappoint.
+Welcome to the Carbon Age Wiki! This is a public repository of rules, lore, and wordbuilding for my Carbon Age TTRPG setting. If you came here looking for examples of my code, I am sorry to disappoint.
 
 Well, since you've come all this way, let me tell you a little bit about my world...
 
