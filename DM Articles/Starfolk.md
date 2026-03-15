@@ -1,0 +1,1 @@
+﻿ A rare **mutant human** lineage with a talent for the arcane. A seemingly random mutation that appeared after [[The Flip]]. but most commonly in Artic Regions. Most can pass as human with minor tells (pale iridescence in the eyes, atypical bone structure).

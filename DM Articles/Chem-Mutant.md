@@ -1,0 +1,2 @@
+﻿ A post-bombing **industrial-exposure mutant** lineage originating in Japan: hypertrophic musculature, adrenal overexpression, and heightened aggression response tied to prolonged **[Carbodiesel](Carbodiesel.md)** / **[Hydromethane](Hydromethane.md)** burn fumes and chemical runoff. Hard to miss, hard to “blend,” and often stereotyped as raiders even when they aren’t.
+ 

@@ -1,0 +1,1 @@
+﻿A smaller-than-average **human lineage** that began appearing more commonly in the late 1970s. Widely accepted as human; theories range from pollutant-linked growth stunting to adaptive miniaturization. Some factions claim they’re the first true “post-industrial” human phenotype.

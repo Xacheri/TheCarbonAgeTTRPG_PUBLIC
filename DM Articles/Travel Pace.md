@@ -8,3 +8,5 @@ A handful of things can modify the pace a party travels at, including:
 
 ![Travel Pace Graphic.png](../_images/Travel%20Pace%20Graphic.png)
 
+
+## Carbon Age Vehicles and Travel Pace

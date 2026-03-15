@@ -1,0 +1,1 @@
+﻿ A small, sharp-featured **microstature mutant human** lineage linked to generations of industrial endocrine disruption, heavy metal exposure, and selective survival in dense factory cities. Renowned for obsessive tinkering, improvised gadgets, and a scrappy engineering culture. Usually travel as indispensable mechanics, riggers, or signal techs. 

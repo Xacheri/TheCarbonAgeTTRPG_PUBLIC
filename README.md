@@ -15,9 +15,9 @@ In *The Carbon Age*, violence, genetic mutations, and disease run rampant as hum
 Campaigns in this setting are meant to have a darker, survival element to them and I encourage you to run them with rules around food, water, encumbrance, and exhaustion. I have some spreadsheets to help your players track those things, and automatically consume them when needed : - )
 
 ## Table of Contents
-- [FAQ](DM%20Articles/FAQ.md)
 ### The Game
 - [Westmarches Concepts](DM%20Articles/Westmarches%20Concepts.md)
+- [Tone and Themes](DM%20Articles/Tone%20and%20Themes.md)
 ### 5E Rules and Mechanics
 - [Conditions Cheatsheet](DM%20Articles/Conditions%20Cheatsheet.md)
 - #### Survival and Travel
@@ -29,7 +29,10 @@ Campaigns in this setting are meant to have a darker, survival element to them a
 	- [Travel Pace](DM%20Articles/Travel%20Pace.md)
 - #### Setting-Specific Rules Adaptations
 	- [Playable Races List](DM%20Articles/Playable%20Races%20List.md)
+	- [Background Flavor Inspiration](DM%20Articles/Background%20Flavor%20Inspiration.md)
+	- [Modern Armor](DM%20Articles/Modern%20Armor.md)
+	- [Modern Weapons](DM%20Articles/Modern%20Weapons.md)
 ### The Setting
 - [Magic System](DM%20Articles/Magic%20System.md)
 - [Currency and Trade](DM%20Articles/Currency%20and%20Trade.md)
-- 
+- [FAQ](DM%20Articles/FAQ.md)
