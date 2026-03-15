@@ -1,7 +1,7 @@
 ﻿# Carbon Age Player-Facing Wiki
 Hello traveler! 
 
-Welcome to the Carbon Age Wiki! This is a public repository of rules, lore, and wordbuilding for my Carbon Age TTRPG setting. If you came here looking for examples of my code, I am sorry to disappoint.
+Welcome to the Carbon Age Wiki! This is a public repository of rules, lore, and wordbuilding for my Carbon Age TTRPG setting. If you cam here looking for examples of my code, I am sorry to disappoint.
 
 Well, since you've come all this way, let me tell you a little bit about my world...
 
@@ -32,6 +32,7 @@ Campaigns in this setting are meant to have a darker, survival element to them a
 	- [Background Flavor Inspiration](DM%20Articles/Background%20Flavor%20Inspiration.md)
 	- [Modern Armor](DM%20Articles/Modern%20Armor.md)
 	- [Modern Weapons](DM%20Articles/Modern%20Weapons.md)
+	- [Gun Proficiencies](DM%20Articles/Gun%20Proficiencies.md)
 ### The Setting
 - [Magic System](DM%20Articles/Magic%20System.md)
 - [Currency and Trade](DM%20Articles/Currency%20and%20Trade.md)
